@@ -8,7 +8,7 @@
 - 📍 Based in Sangli, Maharashtra, India
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishal-deshmukh9552v" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/vishal-deshmukh9552v"](https://www.linkedin.com/in/vishal-deshmukh-9552v/) target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://vishal3399.github.io/V-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:vishaldeshmukh9552@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
