@@ -1,39 +1,44 @@
+<div align="center">
+
 # Vishal Deshmukh
+### Full Stack Developer &nbsp;|&nbsp; Python Developer
 
-**Full Stack Developer | Python Developer**
+Sangli, Maharashtra, India &nbsp;&nbsp;•&nbsp;&nbsp; vishaldeshmukh9552@gmail.com &nbsp;&nbsp;•&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vishal-deshmukh9552v) &nbsp;&nbsp;•&nbsp;&nbsp; [Portfolio](https://vishal3399.github.io/V-portfolio)
 
-Sangli, Maharashtra, India
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/vishal-deshmukh9552v) &nbsp;·&nbsp; [Portfolio](https://vishal3399.github.io/V-portfolio) &nbsp;·&nbsp; [Email](mailto:vishaldeshmukh9552@gmail.com)
+<br/>
 
----
+## Summary
 
-## About
+BCA graduate (CGPA 7.8) from Shivaji University, Kolhapur, with practical experience designing and building full-stack web applications using Python, PHP, MySQL, and JavaScript. Currently completing a Java and Python Full Stack Development program through KodNest. Seeking a Web Development / Python Development internship.
 
-BCA graduate (CGPA 7.8) from Shivaji University, Kolhapur, with hands-on experience building full-stack web applications using Python, PHP, MySQL, and JavaScript. Currently completing a Java and Python Full Stack Development program through KodNest. Seeking a Web Development / Python Development internship.
+<br/>
 
-## Technical Skills
+## Skills
 
-| Category | Skills |
-|---|---|
-| Languages | Python, Java, JavaScript |
-| Frontend | HTML5, CSS3, Bootstrap, Responsive Web Design |
-| Backend | PHP, MySQL, RESTful concepts, XAMPP |
-| Tools | Git, GitHub, Figma |
+**Languages:** Python, Java, JavaScript
+**Frontend:** HTML, CSS, Bootstrap, Responsive Design
+**Backend:** PHP, MySQL, RESTful concepts, XAMPP
+**Tools:** Git, GitHub, Figma
+
+<br/>
 
 ## Projects
 
 **Tours & Travel Management System**
-Full-stack booking platform managing tour packages, customer bookings, and 23+ package listings, with server-side validation and PHP/MySQL connectivity.
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` — [Live Demo](http://tours3-travel.lovestoblog.com)
+Full-stack booking platform managing tour packages, customer bookings, and 23+ package listings, with server-side form validation and PHP/MySQL connectivity.
+Tech: HTML, CSS, JavaScript, PHP, MySQL — [tours3-travel.lovestoblog.com](http://tours3-travel.lovestoblog.com)
 
 **CyberSentinel — Cybersecurity Awareness Platform**
-Informational security platform covering phishing, malware, and password-security best practices, with a MySQL-backed content store and topic-based navigation.
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` — [Live Demo](http://demo123.synergize.co)
+Informational security platform covering phishing, malware, and password-security best practices, backed by a MySQL content store with topic-based navigation.
+Tech: HTML, CSS, JavaScript, PHP, MySQL — [demo123.synergize.co](http://demo123.synergize.co)
 
 **Personal Portfolio Website**
-Responsive portfolio site showcasing projects, skills, and certifications, with a PHP/MySQL-backed contact form.
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` — [Live Demo](https://vishal3399.github.io/V-portfolio)
+Responsive personal site showcasing projects, technical skills, and certifications, with a PHP/MySQL-backed contact form.
+Tech: HTML, CSS, JavaScript, PHP, MySQL — [vishal3399.github.io/V-portfolio](https://vishal3399.github.io/V-portfolio)
+
+<br/>
 
 ## Certifications
 
@@ -42,15 +47,16 @@ Responsive portfolio site showcasing projects, skills, and certifications, with 
 - Figma Course — Udemy, 2026
 - Front-End Development — PM-USHA Skill Development Program, 2025
 
+<br/>
+
 ## Education
 
-**Bachelor of Computer Application (BCA)** — Shivaji University, Kolhapur — CGPA: 7.8 — May 2026
+**Bachelor of Computer Application (BCA)** — Shivaji University, Kolhapur — CGPA 7.8 — May 2026
 
-## GitHub Stats
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal3399&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal3399&layout=compact&hide_border=true" height="165"/>
+---
 
-## Contact
-
-Open to Web Development / Python Development internship opportunities — reach out via [LinkedIn](https://www.linkedin.com/in/vishal-deshmukh9552v) or [email](mailto:vishaldeshmukh9552@gmail.com).
+<div align="center">
+Open to Web Development / Python Development internship opportunities.
+</div>
